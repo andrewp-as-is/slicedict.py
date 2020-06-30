@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/slicedict.svg?longCache=True)](https://pypi.org/project/slicedict/)
-[![](https://img.shields.io/pypi/v/slicedict.svg?maxAge=3600)](https://pypi.org/project/slicedict/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/slicedict.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/slicedict.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/slicedict.svg?maxAge=3600)](https://pypi.org/project/slicedict/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/slicedict.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/slicedict.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install slicedict
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`slicedict.slice(d, keys)` |return dictionary with given keys
 
 #### Examples
 ```python
@@ -27,5 +22,5 @@ function|`__doc__`
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>

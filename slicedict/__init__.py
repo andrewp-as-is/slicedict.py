@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-import public
+__all__ = ["slice"]
 
 
-@public.add
 def slice(d, keys):
     """return dictionary with given keys"""
     result = dict()
